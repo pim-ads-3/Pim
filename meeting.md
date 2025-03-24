@@ -1,7 +1,7 @@
 ### meeting log
 
 ## Dia 12/03/2025
-- todos participaram
+- Todos participaram
 - Assunto: Lavantamento de requisitos
 
 ---
