@@ -46,6 +46,6 @@
 
 ## 📧 Contato
 Caso tenha dúvidas ou sugestões, entre em contato pelo e-mail:
-📩 [seuemail@example.com]
+📩
 
 
