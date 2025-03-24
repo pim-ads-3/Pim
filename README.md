@@ -2,7 +2,6 @@
 
 🚀 **O objetivo deste projeto é criar um sistema de suporte técnico inteligente, que use Inteligência Artificial para ajudar na triagem dos chamados, categorização automática e sugestão de soluções. Isso vai ajudar a melhorar o tempo de resposta e diminuir a carga de trabalho da equipe de TI. O sistema estará em conformidade com a LGPD para proteger os dados pessoais. O desenvolvimento será feito no próximo semestre (PIM IV).**
 
-.
 
 ## 🎮 Objetivos Específicos
 - Usar métodos para levantar os requisitos e modelar os dados do sistema de suporte técnico.
