@@ -1,6 +1,6 @@
 # 📌 Sistema Integrado de Gestão de Chamados com AI
 
-🚀 **O objetivo deste projeto é criar um sistema de suporte técnico inteligente, que use Inteligência Artificial para ajudar na triagem dos chamados, categorização automática e sugestão de soluções. Isso vai ajudar a melhorar o tempo de resposta e diminuir a carga de trabalho da equipe de TI.**
+🚀 **O objetivo do sistema é oferecer suporte técnico inteligente, que use Inteligência Artificial para ajudar na triagem dos chamados, categorização automática e sugestão de soluções. Isso vai ajudar a melhorar o tempo de resposta e diminuir a carga de trabalho da equipe de TI.**
 
 ## ✨ Funcionalidades
 - 🚀 **Abertura e acompanhamento de chamados**
