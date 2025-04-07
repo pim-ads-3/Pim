@@ -16,3 +16,14 @@
 - Reunião presencial
 - Parcipantes:  **Manoella Moura** | **Micael Leal** | **Cauã Araújo** | **Pedro Henrique** | **Davi Matos**
 - Assunto: Organização GitHub
+
+---
+
+## Dia 28/03/2025
+- Todos parciparam
+- Assunto: Interface
+
+---
+
+## Pausa dia 29/03 à 6/04
+- Semana de provas
